@@ -1,0 +1,1 @@
+namespace PictureGame.Domain.User;
