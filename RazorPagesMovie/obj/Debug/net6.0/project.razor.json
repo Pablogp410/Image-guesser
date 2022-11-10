@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\pablo\\onedrive\\documentos\\github\\dat240-2022\\dapasaha\\RazorPagesMovie\\Pages\\Test.cshtml",
+      "TargetPath": "Pages\\Test.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\pablo\\onedrive\\documentos\\github\\dat240-2022\\dapasaha\\RazorPagesMovie\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
