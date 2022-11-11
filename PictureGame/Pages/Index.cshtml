@@ -8,10 +8,13 @@
     <h1 class="display-4">Welcome to the Picture Game!</h1>
     <form method="post">
         <div>
-            Username: <input type="text" asp-for="user.username" name="username" />
+            Username: <input type="text" asp-for="user.Username" name="Username" />
         </div>
         <div>
-            Password: <input type="password" asp-for="user.password" name="password" />
+            Name: <input type="text" asp-for="user.Name" name="Name" />
+        </div>
+        <div>
+            Password: <input type="password" asp-for="user.Password" name="Password" />
         </div>
         <button type="submit">Login</button>
     </form>

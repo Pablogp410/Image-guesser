@@ -1,7 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using PictureGame.Infrastructure.Data;
+using PictureGame;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+// Add the DbContext to the container
+builder.Services.AddDbContext<GameContext>(options =>
+	options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnectionString"))
+	);
+
+// Add the IUserProvider interface and the UserProvider class as a service
+builder.Services.AddScoped<IUserProvider, UserProvider>(); 
+builder.Services.AddScoped<IUserValidator, UserValidator>(); 
 
 var app = builder.Build();
 
