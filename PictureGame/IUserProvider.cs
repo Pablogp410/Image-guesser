@@ -7,7 +7,7 @@ namespace PictureGame;
 
 public interface IUserProvider
 {
-    Task<User[]> GetUser();
+    Task<User[]> GetUsers();
     Task AddUser(User user);
     Task<User> GetUser(int id);
     Task UpdateUser(int id, User user);
@@ -22,7 +22,7 @@ public class UserProvider : IUserProvider {
         _validator = validator;
     }
 
-    public async Task<User[]> GetUser() => await _context.Users.ToArrayAsync();
+    public async Task<User[]> GetUsers() => await _context.Users.ToArrayAsync();
 
     // Add a new food item to the database
     public async Task AddUser(User user) {

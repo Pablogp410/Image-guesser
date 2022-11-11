@@ -22,6 +22,7 @@ public class RegisterModel : PageModel
         _validator = validator;
     }
 
+    [BindProperty]
     public User? user { get; set; }
 
     public async Task<IActionResult> OnPostAsync()
