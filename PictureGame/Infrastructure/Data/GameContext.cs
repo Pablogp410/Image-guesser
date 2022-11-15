@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using PictureGame.Core.Domain.User;
+using PictureGame.Core.Domain.Player;
 using PictureGame.SharedKernel;
 
 namespace PictureGame.Infrastructure.Data;
@@ -19,6 +20,7 @@ public class GameContext : DbContext
 	}
 
 	public DbSet<User> Users { get; set; } = null!;
+	public DbSet<Player> Players { get; set; } = null!;
 
 protected override void OnModelCreating(ModelBuilder modelBuilder)
 {

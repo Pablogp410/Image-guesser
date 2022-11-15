@@ -33,10 +33,10 @@ public class IndexModel : PageModel
 		Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
 		foreach (var u in Users)
 		{
-			if (u.Name == user.Name)
+			if (u.Name == user.Name && u.Password == user.Password && u.Username == user.Username)
 			{
 				HttpContext.Session.SetString("user", user.Name);
-				return RedirectToPage("./Game");
+				return RedirectToPage("./Menu");
 			}
 		}
 		return Page();
