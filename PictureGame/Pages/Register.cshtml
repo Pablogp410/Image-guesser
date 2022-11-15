@@ -5,6 +5,7 @@
     ViewData["Title"] = "Register page";
 }
 
+<h1 class="display-4">Register</h1>
 <form method="post">
         <div>
             Username: <input type="text" asp-for="user.Username" name="Username" />
@@ -28,3 +29,4 @@
         </div>
     } 
     </form>
+    <a asp-page="./Index">Back</a>
