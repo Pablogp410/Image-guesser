@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\Pages\\Menu.cshtml",
+      "TargetPath": "Pages\\Menu.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
