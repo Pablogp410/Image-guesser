@@ -1,53 +1,45 @@
-﻿using PictureGame.Domain.User;
+﻿using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
-using System;
+using MediatR;
+using PictureGame.Core.Domain.User;
+using PictureGame.Helpers;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
 
 namespace PictureGame.Pages;
 
 public class IndexModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger;
-    private readonly IUserProvider _provider;
+	private readonly IMediator _mediator;
+	public IndexModel(IMediator mediator) => _mediator = mediator;
 
-    public string[] error = new string[] { };
+	public List<User> Users { get; set; } = new();
 
-    private readonly IUserValidator _validator;
-    public IEnumerable<User> Users {get; set;}
+	public string[] Errors { get; private set; } = System.Array.Empty<string>();
 
-    public IndexModel(IUserProvider provider, IUserValidator validator)
-    {
-         _provider = provider;
-        _validator = validator;
-    }
+	[BindProperty]
+	public User? user { get; set; }
 
-    [BindProperty]
-    public User? user { get; set; }
+	public async Task OnGetAsync()
+		=> Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
 
-     public async Task OnGetAsync()
-        {
-            Users = await _provider.GetUsers();
-        }
-
-    public async Task<IActionResult> OnPostAsync(User user)
-        {
-            if (user == null) {
-            return Page();
-        }
-        if (_validator.IsValid(user).Length == 0) {
-            foreach (var u in Users) {
-                if (u.Username == user.Username && u.Password == user.Password && u.Name == user.Name) {
-                    return RedirectToPage("Game", new {id = u.Id});
-                } 
-            }
-            error = new string[] {"Invalid username or password"};
-            return RedirectToPage("./index");
-        } else {
-            error = _validator.IsValid(user);
-            return Page();
-        }
-    }
-    
+	public async Task<IActionResult> OnPostAsync()
+	{
+		if (user is null){
+			return Page();
+		}
+		Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+		foreach (var u in Users)
+		{
+			if (u.Name == user.Name)
+			{
+				HttpContext.Session.SetString("user", user.Name);
+				return RedirectToPage("/Game");
+			}
+		}
+		return Page();
+			
+	}
 }

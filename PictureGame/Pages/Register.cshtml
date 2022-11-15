@@ -1,33 +1,29 @@
 @page
 @model PictureGame.Pages.RegisterModel
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @{
-    ViewData["Title"] = "Create";
-}                
-
-<h2>Enter a user name:</h2>
+    ViewData["Title"] = "Register page";
+}
 
 <form method="post">
-    Name:
-    <input asp-for="user!.Name" />
-    Username:
-    <input asp-for="user!.Username" />
-    Password:
-    <input asp-for="user!.Password" />
-   
-    <input type="submit" value="Create"/>
-    <a asp-page="./index">Back</a>
-    <br>
-
-    @if(Model.error.Length > 0)
+        <div>
+            Username: <input type="text" asp-for="user.Username" name="Username" />
+        </div>
+        <div>
+            Name: <input type="text" asp-for="user.Name" name="Name" />
+        </div>
+        <div>
+            Password: <input type="password" asp-for="user.Password" name="Password" />
+        </div>
+        <button type="submit">Register</button>
+        @if(Model.Errors.Length > 0)
     {
         <div class="alert alert-danger">
             <ul>
-                @foreach (var erro in Model.error)
+                @foreach (var erro in Model.Errors)
                 {
                     <li>@erro</li>
                 }
             </ul>
         </div>
     } 
-</form>
+    </form>

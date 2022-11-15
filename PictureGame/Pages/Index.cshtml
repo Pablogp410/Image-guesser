@@ -17,6 +17,17 @@
             Password: <input type="password" asp-for="user.Password" name="Password" />
         </div>
         <button type="submit">Login</button>
+        @if(Model.Errors.Length > 0)
+    {
+        <div class="alert alert-danger">
+            <ul>
+                @foreach (var erro in Model.Errors)
+                {
+                    <li>@erro</li>
+                }
+            </ul>
+        </div>
+    } 
     </form>
     <h2 class="display-4">Dont have user?</h2>
     <a asp-page="/Register">Register</a>

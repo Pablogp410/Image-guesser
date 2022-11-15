@@ -1,43 +1,39 @@
-using PictureGame.Domain.User;
-using System.Threading.Tasks;
 using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using MediatR;
+using PictureGame.Core.Domain.User;
+using PictureGame.Helpers;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
+
 
 namespace PictureGame.Pages;
 
 public class RegisterModel : PageModel
 {
-    private readonly ILogger<IndexModel> _logger;
-    private readonly IUserProvider _provider;
+    private readonly IMediator _mediator;
+    public RegisterModel(IMediator mediator) => _mediator = mediator;
 
-    public string[] error = new string[] { };
+    public List<User> Users { get; set; } = new();
 
-    private readonly IUserValidator _validator;
-
-    public RegisterModel(IUserProvider provider, IUserValidator validator)
-    {
-         _provider = provider;
-        _validator = validator;
-    }
+    public string[] Errors { get; private set; } = System.Array.Empty<string>();
 
     [BindProperty]
     public User? user { get; set; }
 
+    public async Task OnGetAsync()
+        => Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+
     public async Task<IActionResult> OnPostAsync()
     {
-        if (user == null)
-        {
+        if (user is null){
             return Page();
         }
-         if (_validator.IsValid(user).Length == 0) {
-            await _provider.AddUser(user);
-            return RedirectToPage("./index");
-        } else {
-            error = _validator.IsValid(user);
-            return Page();
-        }
+        await _mediator.Send(new Core.Domain.User.Pipelines.Create.Request(user.Name, user.Username, user.Password));
+        return RedirectToPage("/Index");
+
+        
     }
-    
 }
