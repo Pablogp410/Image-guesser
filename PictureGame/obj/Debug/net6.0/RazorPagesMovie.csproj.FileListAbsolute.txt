@@ -52,3 +52,14 @@ C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.pdb
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\ref\RazorPagesMovie.dll
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.csproj.AssemblyReference.cache
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.RazorAssemblyInfo.cache
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.RazorAssemblyInfo.cs
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.dll
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\refint\RazorPagesMovie.dll
+C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.pdb

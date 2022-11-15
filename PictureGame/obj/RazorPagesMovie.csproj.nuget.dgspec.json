@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\Project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\Project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {
+    "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\Project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\Project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\OneDrive\\Documentos\\GitHub\\Project\\DaPaSaHa\\PictureGame\\obj\\",
+        "projectPath": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\katto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\katto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -47,6 +47,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[6.0.9, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
