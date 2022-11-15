@@ -595,27 +595,6 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-<<<<<<< HEAD
-      "Microsoft.Win32.SystemEvents/7.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "buildTransitive/net6.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-=======
       "Microsoft.NETCore.Platforms/2.1.2": {
         "type": "package",
         "compile": {
@@ -639,7 +618,6 @@
         "runtime": {
           "lib/net6.0/Scrutor.dll": {
             "related": ".pdb;.xml"
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
           }
         }
       },
@@ -797,31 +775,6 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
-        }
-      },
-      "System.Drawing.Common/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Win32.SystemEvents": "7.0.0"
-        },
-        "compile": {
-          "lib/net6.0/System.Drawing.Common.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/System.Drawing.Common.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "buildTransitive/net6.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
-            "assetType": "runtime",
-            "rid": "win"
-          }
         }
       },
       "System.Memory/4.5.4": {
@@ -1674,37 +1627,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-<<<<<<< HEAD
-    "Microsoft.Win32.SystemEvents/7.0.0": {
-      "sha512": "2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
-      "type": "package",
-      "path": "microsoft.win32.systemevents/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/net461/Microsoft.Win32.SystemEvents.targets",
-        "buildTransitive/net462/_._",
-        "buildTransitive/net6.0/_._",
-        "buildTransitive/netcoreapp2.0/Microsoft.Win32.SystemEvents.targets",
-        "lib/net462/Microsoft.Win32.SystemEvents.dll",
-        "lib/net462/Microsoft.Win32.SystemEvents.xml",
-        "lib/net6.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/net6.0/Microsoft.Win32.SystemEvents.xml",
-        "lib/net7.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/net7.0/Microsoft.Win32.SystemEvents.xml",
-        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
-        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
-        "microsoft.win32.systemevents.7.0.0.nupkg.sha512",
-        "microsoft.win32.systemevents.nuspec",
-        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
-        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.xml",
-        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll",
-        "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.xml",
-        "useSharedDesignerContext.txt"
-=======
     "Microsoft.NETCore.Platforms/2.1.2": {
       "sha512": "mOJy3M0UN+LUG21dLGMxaWZEP6xYpQEpLuvuEQBaownaX4YuhH6NmNUlN9si+vNkAS6dwJ//N1O4DmLf2CikVg==",
       "type": "package",
@@ -1743,7 +1665,6 @@
         "lib/netstandard2.0/Scrutor.xml",
         "scrutor.4.2.0.nupkg.sha512",
         "scrutor.nuspec"
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
       ]
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.0.6": {
@@ -1896,43 +1817,6 @@
         "lib/netstandard2.0/System.Diagnostics.DiagnosticSource.xml",
         "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
         "system.diagnostics.diagnosticsource.nuspec",
-        "useSharedDesignerContext.txt"
-      ]
-    },
-    "System.Drawing.Common/7.0.0": {
-      "sha512": "KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
-      "type": "package",
-      "path": "system.drawing.common/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "LICENSE.TXT",
-        "THIRD-PARTY-NOTICES.TXT",
-        "buildTransitive/net461/System.Drawing.Common.targets",
-        "buildTransitive/net462/_._",
-        "buildTransitive/net6.0/_._",
-        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoTouch10/_._",
-        "lib/net462/System.Drawing.Common.dll",
-        "lib/net462/System.Drawing.Common.xml",
-        "lib/net6.0/System.Drawing.Common.dll",
-        "lib/net6.0/System.Drawing.Common.xml",
-        "lib/net7.0/System.Drawing.Common.dll",
-        "lib/net7.0/System.Drawing.Common.xml",
-        "lib/netstandard2.0/System.Drawing.Common.dll",
-        "lib/netstandard2.0/System.Drawing.Common.xml",
-        "lib/xamarinios10/_._",
-        "lib/xamarinmac20/_._",
-        "lib/xamarintvos10/_._",
-        "lib/xamarinwatchos10/_._",
-        "runtimes/win/lib/net6.0/System.Drawing.Common.dll",
-        "runtimes/win/lib/net6.0/System.Drawing.Common.xml",
-        "runtimes/win/lib/net7.0/System.Drawing.Common.dll",
-        "runtimes/win/lib/net7.0/System.Drawing.Common.xml",
-        "system.drawing.common.7.0.0.nupkg.sha512",
-        "system.drawing.common.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -2164,15 +2048,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-<<<<<<< HEAD
-      "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.9",
-      "System.Drawing.Common >= 7.0.0"
-    ]
-  },
-  "packageFolders": {
-    "C:\\Users\\katto\\.nuget\\packages\\": {}
-=======
       "Bogus >= 34.0.2",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 10.0.1",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 6.0.9",
@@ -2184,21 +2059,10 @@
   },
   "packageFolders": {
     "C:\\Users\\pablo\\.nuget\\packages\\": {}
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
-      "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\katto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\katto\\Documents\\dat240\\project\\DaPaSaHa\\PictureGame\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\katto\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
       "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\dat240-2022\\DaPaSaHa\\picturegame\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
       "projectPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\dat240-2022\\DaPaSaHa\\picturegame\\RazorPagesMovie.csproj",
@@ -2207,7 +2071,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2251,11 +2114,6 @@
             "target": "Package",
             "version": "[6.0.9, )"
           },
-<<<<<<< HEAD
-          "System.Drawing.Common": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-=======
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -2265,7 +2123,6 @@
           "Scrutor": {
             "target": "Package",
             "version": "[4.2.0, )"
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
           }
         },
         "imports": [

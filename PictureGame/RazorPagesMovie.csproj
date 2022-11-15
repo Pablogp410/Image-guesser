@@ -6,16 +6,6 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-<<<<<<< HEAD
-  <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.9" />
-    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
-  </ItemGroup>
-=======
     <ItemGroup>
         <PackageReference Include="Bogus" Version="34.0.2" />
         <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
@@ -28,6 +18,5 @@
         </PackageReference>
         <PackageReference Include="Scrutor" Version="4.2.0" />
     </ItemGroup>
->>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
 
 </Project>

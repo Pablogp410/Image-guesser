@@ -771,3 +771,4 @@ C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\obj\D
 C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\obj\Debug\net6.0\RazorPagesMovie.genruntimeconfig.cache
 C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\obj\Debug\net6.0\ref\RazorPagesMovie.dll
 >>>>>>> e0dae0b61e4b64d11a11ad4e5cce8bd1615cbe8f
+C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\bin\Debug\net6.0\RazorPagesMovie.staticwebassets.runtime.json
