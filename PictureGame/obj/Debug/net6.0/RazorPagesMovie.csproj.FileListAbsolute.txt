@@ -370,9 +370,7 @@ C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.RazorAssemblyInfo.cs
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\scopedcss\bundle\RazorPagesMovie.styles.css
-C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\scopedcss\projectbundle\RazorPagesMovie.bundle.scp.css
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.csproj.CopyComplete
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\RazorPagesMovie.dll
 C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\obj\Debug\net6.0\refint\RazorPagesMovie.dll
@@ -1150,3 +1148,8 @@ C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\bin\D
 C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\OneDrive\Documentos\GitHub\Project\DaPaSaHa\PictureGame\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
