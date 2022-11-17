@@ -1,24 +1,39 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using SixLabors.ImageSharp;
-using PictureGame.SharedKernel;
+using SixLabors.ImageSharp.PixelFormats;
+using SixLabors.ImageSharp.Processing;using PictureGame.SharedKernel;
 using PictureGame.Core.Domain.Game;
 
-namespace PictureGame.Core.Domain.Game{
-
+namespace PictureGame.Core.Domain.Game
+{
 public class Game : BaseEntity 
 {
-    public Game() {
-    }
-    
-    static void GetRandomImage()
+    public Game() 
     {
-       public string[] PathToImages = Directory.GetFiles(@"C:~PictureGame\PictureGame.Core\Domain\Game\images");
-       Random random = new Random();
-       int ChosenImage = random.Next(0, PathToImages.Length);
-
+        Oracle = new Oracle();
     }
-}
+
+    public int Id { get; protected set; }
+    public List<String> CurrentImages { get; set; } = new List<string>();
+    public Picture? TheImage { get; set; }
+    public Image<Rgba32> ImageBase = new(375, 500);
+    public Oracle Oracle { get; set; }
+
+    public int UserId {get; set;}
+
+    public int Score { get; set; }
+
+    public bool Completed { get; set; }
+    public int GuessTries { get; set; }
+
+    public void AddPiece()
+    {
+        int index = Oracle.GetPiece(TheImage);
+		CurrentImages.Add(TheImage.Pieces[index]);
+    }
     
+}
 }

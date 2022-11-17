@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = c:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\
+build_property.ProjectDir = C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = c:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame
+build_property.MSBuildProjectDirectory = C:\Users\katto\Documents\dat240\project\DaPaSaHa\PictureGame
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Error.cshtml]
+[C:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Game.cshtml]
+[C:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Game.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Index.cshtml]
+[C:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Menu.cshtml]
+[C:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Register.cshtml]
+[C:/Users/katto/Documents/dat240/project/DaPaSaHa/PictureGame/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -6,3 +6,18 @@
 }
 
 <h1 class="display-4">Welcome to the Game Page!</h1>
+
+<form>
+  <input asp-for="Guess" class="form-control" />
+  <button type="submit">Guess</button>
+</form>
+
+<div> 
+    <img src="@Model.game.ImageBase" style="border-style: solid; position: absolute;" alt="Image" />
+
+    @foreach (var piece in Model.game.CurrentImages)
+    {
+        <img src="@piece" style="position: relative;" alt="Image" />
+    }
+
+</div>
