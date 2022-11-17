@@ -18,7 +18,8 @@ var builder = WebApplication.CreateBuilder();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
 {
-    options.IdleTimeout = TimeSpan.FromSeconds(60); // We're keeping this low to facilitate testing. Would normally be higher. Default is 20 minutes
+    //options.IdleTimeout = TimeSpan.FromSeconds(60); // We're keeping this low to facilitate testing. Would normally be higher. Default is 20 minutes
+    options.IdleTimeout = TimeSpan.FromMinutes(20);
     options.Cookie.IsEssential = true;              // Otherwise we need cookie approval
 });
 

@@ -15,30 +15,32 @@ public class IndexModel : PageModel
 	private readonly IMediator _mediator;
 	public IndexModel(IMediator mediator) => _mediator = mediator;
 
-	public List<User> Users { get; set; } = new();
+	public User? user { get; set; }
 
 	public string[] Errors { get; private set; } = System.Array.Empty<string>();
 
 	[BindProperty]
-	public User? user { get; set; }
+	public string Username { get; set; }
+	[BindProperty]
+	public string Password { get; set; }
 
 	public async Task OnGetAsync()
-		=> Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+		=> Page();
 
 	public async Task<IActionResult> OnPostAsync()
 	{
-		if (user is null){
+		if (string.IsNullOrWhiteSpace(Username) || string.IsNullOrWhiteSpace(Password))
+		{
+			Errors = new string[] { "Username and/or password is empty" };
 			return Page();
 		}
-		Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
-		foreach (var u in Users)
-		{
-			if (u.Name == user.Name && u.Password == user.Password && u.Username == user.Username)
+		user = await _mediator.Send(new Core.Domain.User.Pipelines.GetByUser.Request(Username, Password));
+		if (user != null)
 			{
-				HttpContext.Session.SetString("user", user.Name);
+				HttpContext.Session.SetString("Username", user.Username);
 				return RedirectToPage("./Menu");
 			}
-		}
+		Errors = new string[] { "Username and/or password is incorrect" };
 		return Page();
 			
 	}

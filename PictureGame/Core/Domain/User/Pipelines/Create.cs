@@ -11,7 +11,7 @@ namespace PictureGame.Core.Domain.User.Pipelines;
 
 public class Create
 {
-	public record Request(string Name, string username, string password) : IRequest<Response>;
+	public record Request(string Name, string username, string password, Guid id) : IRequest<Response>;
 
 	public record Response(bool Success, User createdUser, string[] Errors);
 
@@ -28,13 +28,7 @@ public class Create
 
 		public async Task<Response> Handle(Request request, CancellationToken cancellationToken)
 		{
-			var user = new User(request.username, request.Name, request.password)
-			{
-				Username = request.username,
-				Name = request.Name,
-                Password = request.password,
-                Score = 0
-			};
+			var user = new User(request.username, request.Name, request.password, request.id);
 
 			var errors = _validators.Select(v => v.IsValid(user))
 						.Where(result => !result.IsValid)

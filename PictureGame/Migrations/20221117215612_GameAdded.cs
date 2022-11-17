@@ -1,25 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace RazorPagesMovie.Migrations
 {
-    public partial class Game : Migration
+    /// <inheritdoc />
+    public partial class GameAdded : Migration
     {
+        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.CreateTable(
-                name: "Oracle",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "INTEGER", nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Oracle", x => x.Id);
-                });
-
             migrationBuilder.CreateTable(
                 name: "Picture",
                 columns: table => new
@@ -53,8 +44,7 @@ namespace RazorPagesMovie.Migrations
                 name: "Users",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "INTEGER", nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                    Id = table.Column<Guid>(type: "TEXT", nullable: false),
                     Username = table.Column<string>(type: "TEXT", nullable: false),
                     Name = table.Column<string>(type: "TEXT", nullable: false),
                     Score = table.Column<int>(type: "INTEGER", nullable: false),
@@ -72,7 +62,7 @@ namespace RazorPagesMovie.Migrations
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     TheImageId = table.Column<int>(type: "INTEGER", nullable: true),
-                    OracleId = table.Column<int>(type: "INTEGER", nullable: false),
+                    OracleId = table.Column<int>(name: "Oracle_Id", type: "INTEGER", nullable: false),
                     UserId = table.Column<int>(type: "INTEGER", nullable: false),
                     Score = table.Column<int>(type: "INTEGER", nullable: false),
                     Completed = table.Column<bool>(type: "INTEGER", nullable: false),
@@ -81,12 +71,6 @@ namespace RazorPagesMovie.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_TheGame", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_TheGame_Oracle_OracleId",
-                        column: x => x.OracleId,
-                        principalTable: "Oracle",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_TheGame_Picture_TheImageId",
                         column: x => x.TheImageId,
@@ -130,16 +114,12 @@ namespace RazorPagesMovie.Migrations
                 column: "PictureId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_TheGame_OracleId",
-                table: "TheGame",
-                column: "OracleId");
-
-            migrationBuilder.CreateIndex(
                 name: "IX_TheGame_TheImageId",
                 table: "TheGame",
                 column: "TheImageId");
         }
 
+        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
@@ -153,9 +133,6 @@ namespace RazorPagesMovie.Migrations
 
             migrationBuilder.DropTable(
                 name: "TheGame");
-
-            migrationBuilder.DropTable(
-                name: "Oracle");
 
             migrationBuilder.DropTable(
                 name: "Picture");

@@ -4,8 +4,10 @@ using System.IO;
 using System.Linq;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
-using SixLabors.ImageSharp.Processing;using PictureGame.SharedKernel;
+using SixLabors.ImageSharp.Processing;
+using PictureGame.SharedKernel;
 using PictureGame.Core.Domain.Game;
+using Microsoft.EntityFrameworkCore;
 
 namespace PictureGame.Core.Domain.Game
 {
@@ -15,6 +17,7 @@ public interface IProposer
     int GetPiece(Picture picture);
 }
 
+[Owned]
 public class Oracle : BaseEntity,  IProposer
 {
     public Oracle() 

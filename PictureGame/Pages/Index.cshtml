@@ -9,13 +9,10 @@
     <h1 class="display-4">Welcome to the Picture Game!</h1>
     <form method="post">
         <div>
-            Username: <input type="text" asp-for="user.Username" name="Username" />
+            Username: <input type="text" asp-for="Username" name="Username" />
         </div>
         <div>
-            Name: <input type="text" asp-for="user.Name" name="Name" />
-        </div>
-        <div>
-            Password: <input type="password" asp-for="user.Password" name="Password" />
+            Password: <input type="password" asp-for="Password" name="Password" />
         </div>
         <button type="submit">Login</button>
         @if(Model.Errors.Length > 0)

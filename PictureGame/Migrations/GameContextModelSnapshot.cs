@@ -15,7 +15,7 @@ namespace RazorPagesMovie.Migrations
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
-            modelBuilder.HasAnnotation("ProductVersion", "6.0.9");
+            modelBuilder.HasAnnotation("ProductVersion", "7.0.0");
 
             modelBuilder.Entity("PictureGame.Core.Domain.Game.Game", b =>
                 {
@@ -29,9 +29,6 @@ namespace RazorPagesMovie.Migrations
                     b.Property<int>("GuessTries")
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("OracleId")
-                        .HasColumnType("INTEGER");
-
                     b.Property<int>("Score")
                         .HasColumnType("INTEGER");
 
@@ -43,22 +40,9 @@ namespace RazorPagesMovie.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OracleId");
-
                     b.HasIndex("TheImageId");
 
                     b.ToTable("TheGame");
-                });
-
-            modelBuilder.Entity("PictureGame.Core.Domain.Game.Oracle", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Oracle");
                 });
 
             modelBuilder.Entity("PictureGame.Core.Domain.Game.Picture", b =>
@@ -129,9 +113,9 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.User.User", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -155,17 +139,28 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.Game.Game", b =>
                 {
-                    b.HasOne("PictureGame.Core.Domain.Game.Oracle", "Oracle")
-                        .WithMany()
-                        .HasForeignKey("OracleId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("PictureGame.Core.Domain.Game.Picture", "TheImage")
                         .WithMany()
                         .HasForeignKey("TheImageId");
 
-                    b.Navigation("Oracle");
+                    b.OwnsOne("PictureGame.Core.Domain.Game.Oracle", "Oracle", b1 =>
+                        {
+                            b1.Property<int>("GameId")
+                                .HasColumnType("INTEGER");
+
+                            b1.Property<int>("Id")
+                                .HasColumnType("INTEGER");
+
+                            b1.HasKey("GameId");
+
+                            b1.ToTable("TheGame");
+
+                            b1.WithOwner()
+                                .HasForeignKey("GameId");
+                        });
+
+                    b.Navigation("Oracle")
+                        .IsRequired();
 
                     b.Navigation("TheImage");
                 });
