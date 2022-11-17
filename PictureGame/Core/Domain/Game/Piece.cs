@@ -5,20 +5,15 @@ using System.Collections.Generic;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Processing;
 namespace PictureGame.Core.Domain.Game{
-public class Picture
+public class Piece
 {
-    public Picture()
+    public Piece()
     {}
-    public Picture(string pictureId, string name, List<Piece> pieces)
+    public Piece(string name)
     {
         Name = name;
-        Pieces = pieces;
-        PictureId = pictureId;
     }
-
     public String Name { get; set; } 
-    public List<Piece> Pieces { get; set; } 
-    public String PictureId { get; set; }
     public int Id { get; set; }
 }
 }

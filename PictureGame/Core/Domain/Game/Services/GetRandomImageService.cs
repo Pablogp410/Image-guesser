@@ -30,10 +30,11 @@ namespace PictureGame.Core.Domain.Game;
             DirectoryInfo ChosenImage = new DirectoryInfo(PathToImages[rand.Next(0, PathToImages.Length)]);
              
             
-            List<string> ThePieces = new List<string>();
+            List<Piece> ThePieces = new List<Piece>();
             foreach (var Piece in ChosenImage.GetFiles())
             {
-                ThePieces.Add(@"\PictureGame\Infrastructure\images\" + ChosenImage.Name + @"\" + Piece.Name); //expand
+                //ThePieces.Add(@"\PictureGame\Infrastructure\images\" + ChosenImage.Name + @"\" + Piece.Name); //expand
+                ThePieces.Add(new Piece(Piece.Name));
             }
 
             string ImageFolderName = ChosenImage.Name.Substring(22);
