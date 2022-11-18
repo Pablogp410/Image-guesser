@@ -30,6 +30,8 @@ public class GameModel : PageModel
 
 	public int GuessTries { get; set; }
 
+	public User user { get; set; }
+
 
 	public string[] Errors { get; private set; } = System.Array.Empty<string>();
 	public async Task OnGetAsync(){

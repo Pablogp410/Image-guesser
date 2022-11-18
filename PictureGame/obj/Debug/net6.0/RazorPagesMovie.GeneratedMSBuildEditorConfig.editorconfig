@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = C:\Users\Håvard\Desktop\STUDIE\DAT240\project\DaPaSaHa\PictureGame\
+build_property.ProjectDir = C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Håvard\Desktop\STUDIE\DAT240\project\DaPaSaHa\PictureGame
+build_property.MSBuildProjectDirectory = C:\Users\pablo\OneDrive\Documentos\GitHub\dat240-2022\DaPaSaHa\picturegame
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/Error.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/Game.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/Game.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/Index.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/LeaderBoard.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/LeaderBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZGVyQm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/Menu.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Håvard/Desktop/STUDIE/DAT240/project/DaPaSaHa/PictureGame/Pages/Register.cshtml]
+[C:/Users/pablo/OneDrive/Documentos/GitHub/dat240-2022/DaPaSaHa/picturegame/Pages/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

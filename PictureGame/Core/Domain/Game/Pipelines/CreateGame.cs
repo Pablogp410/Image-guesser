@@ -11,7 +11,7 @@ namespace PictureGame.Core.Domain.Game.Pipelines;
 
 public class CreateGame
 {
-	public record Request : IRequest<Response>;
+	public record Request() : IRequest<Response>;
 
 	public record Response(bool Success, Game createdGame, string[] Errors);
 

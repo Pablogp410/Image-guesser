@@ -6,6 +6,7 @@ using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;using PictureGame.SharedKernel;
 using PictureGame.Core.Domain.Game;
+using PictureGame.Core.Domain.Player;
 
 namespace PictureGame.Core.Domain.Game
 {
@@ -28,6 +29,8 @@ public class Game : BaseEntity
 
     public bool Completed { get; set; }
     public int GuessTries { get; set; }
+
+    //public Player player1 { get; set; }
 
     public void AddPiece()
     {

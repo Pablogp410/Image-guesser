@@ -23,6 +23,6 @@ public class GetGame
 		}
 
 		public async Task<Game?> Handle(Request request, CancellationToken cancellationToken)
-			=> await _db.TheGame.SingleAsync(cancellationToken: cancellationToken);
+			=> await _db.TheGame.SingleOrDefaultAsync(cancellationToken: cancellationToken);
 	}
 }
