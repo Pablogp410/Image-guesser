@@ -32,11 +32,16 @@ public class RegisterModel : PageModel
             return Page();
         }
         var result = await _mediator.Send(new Core.Domain.User.Pipelines.CheckIfUserExists.Request(user.Username));
-        if (result.Success)
+        if (result.Success) // returns true if username is not taken
         {
             var id = Guid.NewGuid();
-            await _mediator.Send(new Core.Domain.User.Pipelines.Create.Request(user.Name, user.Username, user.Password, id));
-            return RedirectToPage("/Index");
+            var createResult = await _mediator.Send(new Core.Domain.User.Pipelines.Create.Request(user.Name, user.Username, user.Password, id));
+            if (createResult.Success)
+            {
+                return RedirectToPage("./Index");
+            }
+            Errors = createResult.Errors;
+            return Page();
         }
         Errors = result.Errors;
         return Page();
