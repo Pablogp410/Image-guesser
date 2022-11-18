@@ -37,7 +37,7 @@ public class IndexModel : PageModel
 		user = await _mediator.Send(new Core.Domain.User.Pipelines.GetByUser.Request(Username, Password));
 		if (user != null)
 			{
-				HttpContext.Session.SetString("Username", user.Username);
+				HttpContext.Session.SetString("UserId", user.Id.ToString());
 				return RedirectToPage("./Menu");
 			}
 		Errors = new string[] { "Username and/or password is incorrect" };
