@@ -19,11 +19,14 @@ public class CreateGame
 	{
 		private readonly GameContext _db;
 		private readonly IEnumerable<IValidator<Game>> _validators;
+		private readonly IGetRandomImageService _randimg;
 
-		public Handler(GameContext db, IEnumerable<IValidator<Game>> validators)
+		public Handler(GameContext db, IEnumerable<IValidator<Game>> validators, IGetRandomImageService randimg)
 		{
 			_db = db ?? throw new ArgumentNullException(nameof(db));
 			_validators = validators ?? throw new ArgumentNullException(nameof(validators));
+			_randimg = randimg ?? throw new ArgumentNullException(nameof(randimg));
+
 		}
 
 		public async Task<Response> Handle(Request request, CancellationToken cancellationToken)
@@ -42,7 +45,11 @@ public class CreateGame
                 {
                     return new Response(Success: false, game, errors);
                 }
-
+				var a_image = _randimg.GetRandomImage();
+				if (a_image == null)
+				{return new Response(Success: false, game, new string[] { "No images found" });}
+				game.TheImage = a_image;
+				game.AddPiece();
                 _db.TheGame.Add(game);
                 await _db.SaveChangesAsync(cancellationToken);
 

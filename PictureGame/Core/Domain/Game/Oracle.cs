@@ -25,7 +25,7 @@ public class Oracle : BaseEntity,  IProposer
     public int GetPiece(Picture picture)
     {
         Random rand = new Random(); 
-        int index = rand.Next(picture.Pieces.Count);
+        int index = rand.Next(picture.Pieces.Count());
         picture.Pieces.RemoveAt(index);
         return index;
     }

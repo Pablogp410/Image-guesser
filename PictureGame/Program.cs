@@ -12,6 +12,7 @@ using Microsoft.Extensions.Hosting;
 using PictureGame;
 using PictureGame.SharedKernel;
 using PictureGame.Infrastructure.Data;
+using PictureGame.Core.Domain.Game;
 
 var builder = WebApplication.CreateBuilder();
 
@@ -36,6 +37,8 @@ builder.Services.Scan(scan => scan
     .FromCallingAssembly()
         .AddClasses(classes => classes.AssignableTo(typeof(IValidator<>)))
         .AsImplementedInterfaces());
+
+builder.Services.AddScoped<IGetRandomImageService, GetRandomImageService>();
 
 builder.Services.AddRazorPages();
 

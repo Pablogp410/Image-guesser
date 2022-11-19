@@ -23,9 +23,9 @@ public class GameModel : PageModel
 	public GameModel(IMediator mediator) => _mediator = mediator;
 
 	Random rand = new Random();
-	public List<User> Users { get; set; } = new();
+	public List<User> Users { get; set; }
 
-	public Game game {get; set;} = new();
+	public Game game {get; set;} 
 	public string Guess { get; set; }
 
 	public int GuessTries { get; set; }
@@ -68,60 +68,34 @@ public class GameModel : PageModel
 			await _mediator.Send(new Core.Domain.Game.Pipelines.CreateGame.Request(player.Id));
 			game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(player.Id));
 		}
-
-		/*
-		var UserId = HttpContext.Session.GetGuid("UserId");
-		if(UserId != null){
-			//Getting the user using the UserId
-			user = await _mediator.Send(new GetById.Request(UserId.Value));
-			if(user != null){
-				//Checking if there is any player with that user ID, if not create one
-				player = await _mediator.Send(new Core.Domain.Player.Pipelines.GetPlayerById.Request(UserId.Value));
-				if(player == null){
-					user = await _mediator.Send(new Core.Domain.User.Pipelines.GetById.Request(UserId.Value));
-					if(user != null){
-						player = await _mediator.Send(new Core.Domain.Player.Pipelines.CreatePlayer.Request(UserId.Value, user.Username));
-						//Checking if there are any existing games for the player
-						game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(player.Id));
-						
-						if (game == null){
-							await _mediator.Send(new Core.Domain.Game.Pipelines.CreateGame.Request(player.Id));
-							game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(player.Id));
-						}
-					}
-				}
-			}
-		}*/
 	}
 
-	public async Task<IActionResult> OnPostAsync(string Guess)
+	public async Task<IActionResult> OnPostAsync(string Guess, Game game)
 	{
 		//Getting the session ID
 		var UserId = HttpContext.Session.GetGuid("UserId");
 		if(UserId == null){
 			return RedirectToPage("/Index");
 		}
-		if (!game.TheImage.Pieces.Any())
-		{
-			await _mediator.Send(new Core.Domain.Game.Pipelines.DiscardGame.Request(player.Id));
-			game = null;
-			return Page();
 
-		}	
-		if(Guess == game.TheImage.Name){
-			game.Completed = true;
+		game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(UserId.Value));
+		if (game == null){
+			return RedirectToPage("/Index");
+		}
+
+		if(Guess == game.TheImage.Name){            
 			foreach (var i in game.TheImage.Pieces)
 			{
-				game.CurrentImages.Add(i);
-				game.TheImage.Pieces.Remove(i);
+				await _mediator.Send(new Core.Domain.Game.Pipelines.AddPiece.Request(game.Id));
 			}
 			return Page();
 
 		}	
 		
 		else{
-			
+			await _mediator.Send(new Core.Domain.Game.Pipelines.AddPiece.Request(game.Id));
 			return Page();
 		}
 	}
 }
+    //<img src="@Model.game.ImageBase" style="border-style: solid; position: absolute;" alt="Image" />

@@ -23,7 +23,7 @@ public class GetGame
 		}
 
 		public async Task<Game?> Handle(Request request, CancellationToken cancellationToken)
-			=> await _db.TheGame.Where(u => u.playerID == request.Id)
-            .SingleOrDefaultAsync(cancellationToken: cancellationToken);
+			=> await _db.TheGame.Where(u => u.playerID == request.Id).Include(u => u.CurrentImages).Include(u => u.TheImage).Include(u => u.TheImage.Pieces)
+			.SingleOrDefaultAsync(cancellationToken: cancellationToken);
 	}
 }
