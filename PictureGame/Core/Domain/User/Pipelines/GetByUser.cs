@@ -9,9 +9,9 @@ using PictureGame.Infrastructure.Data;
 
 namespace PictureGame.Core.Domain.User.Pipelines;
 
-public class GetById
+public class GetByUser
 {
-	public record Request(Guid Id) : IRequest<User?>;
+	public record Request(string Username, string password) : IRequest<User?>;
 
 	public class Handler : IRequestHandler<Request, User?>
 	{
@@ -22,7 +22,7 @@ public class GetById
 		public async Task<User?> Handle(Request request, CancellationToken cancellationToken)
 		{
             var user = await _db.Users
-                .Where(u => u.Id == request.Id)
+                .Where(u => u.Username == request.Username && u.Password == request.password)
             .SingleOrDefaultAsync(cancellationToken: cancellationToken);
 			return user;
 		}

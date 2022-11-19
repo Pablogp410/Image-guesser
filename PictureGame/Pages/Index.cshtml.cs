@@ -25,7 +25,16 @@ public class IndexModel : PageModel
 	public string Password { get; set; }
 
 	public async Task OnGetAsync()
-		=> Page();
+	{
+		//Getting the session ID
+		/*var UserId = HttpContext.Session.GetGuid("UserId");
+		if(UserId == null){
+			UserId = Guid.NewGuid();
+			HttpContext.Session.SetString("UserId", UserId.ToString());
+			Response.Redirect("/Index");
+		}*/
+		Page();
+	}
 
 	public async Task<IActionResult> OnPostAsync()
 	{

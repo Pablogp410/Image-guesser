@@ -11,7 +11,7 @@ namespace PictureGame.Core.Domain.Game.Pipelines;
 
 public class CreateGame
 {
-	public record Request() : IRequest<Response>;
+	public record Request(Guid Id) : IRequest<Response>;
 
 	public record Response(bool Success, Game createdGame, string[] Errors);
 
@@ -31,6 +31,8 @@ public class CreateGame
                 var game = new Game();
 
                 game.Completed = false;
+
+				game.playerID = request.Id;
                 
                 var errors = _validators.Select(v => v.IsValid(game))
                             .Where(result => !result.IsValid)

@@ -11,8 +11,8 @@ using PictureGame.Infrastructure.Data;
 namespace RazorPagesMovie.Migrations
 {
     [DbContext(typeof(GameContext))]
-    [Migration("20221117215612_GameAdded")]
-    partial class GameAdded
+    [Migration("20221119083204_gamePage")]
+    partial class gamePage
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,6 +40,9 @@ namespace RazorPagesMovie.Migrations
 
                     b.Property<int>("UserId")
                         .HasColumnType("INTEGER");
+
+                    b.Property<Guid?>("playerID")
+                        .HasColumnType("TEXT");
 
                     b.HasKey("Id");
 
@@ -94,9 +97,9 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.Player.Player", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("TEXT");
 
                     b.Property<int>("Score")
                         .HasColumnType("INTEGER");
@@ -116,7 +119,7 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.User.User", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<Guid?>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 

@@ -38,6 +38,9 @@ namespace RazorPagesMovie.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("INTEGER");
 
+                    b.Property<Guid?>("playerID")
+                        .HasColumnType("TEXT");
+
                     b.HasKey("Id");
 
                     b.HasIndex("TheImageId");
@@ -91,9 +94,9 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.Player.Player", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("TEXT");
 
                     b.Property<int>("Score")
                         .HasColumnType("INTEGER");
@@ -113,7 +116,7 @@ namespace RazorPagesMovie.Migrations
 
             modelBuilder.Entity("PictureGame.Core.Domain.User.User", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<Guid?>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("TEXT");
 

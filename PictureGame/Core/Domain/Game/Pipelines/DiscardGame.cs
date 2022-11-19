@@ -11,7 +11,7 @@ namespace PictureGame.Core.Domain.Game.Pipelines;
 
 public class DiscardGame
 {
-	public record Request() : IRequest<Response>;
+	public record Request(Guid Id) : IRequest<Response>;
 
 	public record Response(bool Success, Game DiscardedGame, string[] Errors);
 
@@ -35,7 +35,7 @@ public class DiscardGame
 
 		public async Task<Response> Handle(Request request, CancellationToken cancellationToken)
 		{
-			var game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request());
+			var game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(request.Id));
 
             var errors = _validators.Select(v => v.IsValid(game))
 						.Where(result => !result.IsValid)

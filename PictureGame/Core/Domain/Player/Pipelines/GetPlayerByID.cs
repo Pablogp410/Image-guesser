@@ -7,13 +7,14 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using PictureGame.Infrastructure.Data;
 
-namespace PictureGame.Core.Domain.Game.Pipelines;
 
-public class GetGame
+namespace PictureGame.Core.Domain.Player.Pipelines;
+
+public class GetPlayerById
 {
-	public record Request(Guid Id) : IRequest<Game> { }
+	public record Request (Guid Id) : IRequest<Player>{ }
 
-	public class Handler : IRequestHandler<Request, Game?>
+	public class Handler : IRequestHandler<Request, Player>
 	{
 		private readonly GameContext _db;
 
@@ -22,8 +23,12 @@ public class GetGame
 			_db = db ?? throw new ArgumentNullException(nameof(db));
 		}
 
-		public async Task<Game?> Handle(Request request, CancellationToken cancellationToken)
-			=> await _db.TheGame.Where(u => u.playerID == request.Id)
+		public async Task<Player> Handle(Request request, CancellationToken cancellationToken)
+		{
+            var player = await _db.Players
+                .Where(u => u.Id == request.Id)
             .SingleOrDefaultAsync(cancellationToken: cancellationToken);
+			return player;
+		}
 	}
 }

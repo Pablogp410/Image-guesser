@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace RazorPagesMovie.Migrations
 {
     /// <inheritdoc />
-    public partial class GameAdded : Migration
+    public partial class gamePage : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -29,8 +29,7 @@ namespace RazorPagesMovie.Migrations
                 name: "Players",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "INTEGER", nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                    Id = table.Column<Guid>(type: "TEXT", nullable: false),
                     Username = table.Column<string>(type: "TEXT", nullable: false),
                     Type = table.Column<string>(type: "TEXT", nullable: false),
                     Score = table.Column<int>(type: "INTEGER", nullable: false)
@@ -66,7 +65,8 @@ namespace RazorPagesMovie.Migrations
                     UserId = table.Column<int>(type: "INTEGER", nullable: false),
                     Score = table.Column<int>(type: "INTEGER", nullable: false),
                     Completed = table.Column<bool>(type: "INTEGER", nullable: false),
-                    GuessTries = table.Column<int>(type: "INTEGER", nullable: false)
+                    GuessTries = table.Column<int>(type: "INTEGER", nullable: false),
+                    playerID = table.Column<Guid>(type: "TEXT", nullable: true)
                 },
                 constraints: table =>
                 {

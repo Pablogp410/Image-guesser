@@ -23,11 +23,22 @@ public class RegisterModel : PageModel
     [BindProperty]
     public User? user { get; set; }
 
-    public async Task OnGetAsync()
-        => Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
-
+    public async Task OnGetAsync(){
+        //var UserId = HttpContext.Session.GetGuid("UserId");
+        Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+    }
     public async Task<IActionResult> OnPostAsync()
     {
+        ///////////////////////////
+        /*
+        var UserId = HttpContext.Session.GetGuid("UserId");
+        if(UserId == null){
+			UserId = Guid.NewGuid();
+			HttpContext.Session.SetString("UserId", UserId.ToString());
+        }
+        user = await _mediator.Send(new Core.Domain.User.Pipelines.GetById.Request(UserId));
+        */
+        ////////////////////////////
         if (user is null){
             return Page();
         }
@@ -38,6 +49,10 @@ public class RegisterModel : PageModel
             var createResult = await _mediator.Send(new Core.Domain.User.Pipelines.Create.Request(user.Name, user.Username, user.Password, id));
             if (createResult.Success)
             {
+                ////////////////////////////
+                var UserId = Guid.NewGuid();
+			    HttpContext.Session.SetString("UserId", UserId.ToString());
+                ////////////////////////////
                 return RedirectToPage("./Index");
             }
             Errors = createResult.Errors;

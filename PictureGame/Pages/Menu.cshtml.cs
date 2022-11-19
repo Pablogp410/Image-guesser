@@ -17,13 +17,27 @@ public class MenuModel : PageModel
 
 	public List<User> Users { get; set; } = new();
 
+	public User? user { get; set; }
+
 	public string[] Errors { get; private set; } = System.Array.Empty<string>();
 
-	public async Task OnGetAsync()
-		=> Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+	public async Task OnGetAsync(){
+		var UserId = HttpContext.Session.GetGuid("UserId");
+		Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+	}
 
-	/*public async Task<IActionResult> OnPostAsync()
+	public async Task<IActionResult> OnPostAsync()
 	{
-		
-	}*/
+		var UserId = HttpContext.Session.GetGuid("UserId");
+		if(UserId == null){
+			return RedirectToPage("./Index");
+		}
+		user = await _mediator.Send(new Core.Domain.User.Pipelines.GetById.Request(UserId.Value));
+		if (user == null)
+		{
+			return RedirectToPage("./Index");
+		}
+		HttpContext.Session.SetString("UserId", user.Id.ToString());
+		return RedirectToPage("./Game");
+	}
 }

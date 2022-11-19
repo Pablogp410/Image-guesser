@@ -30,7 +30,7 @@ public class Game : BaseEntity
     public bool Completed { get; set; }
     public int GuessTries { get; set; }
 
-    //public Player player1 { get; set; }
+    public Guid? playerID { get; set; }
 
     public void AddPiece()
     {
