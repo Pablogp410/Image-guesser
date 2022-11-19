@@ -2354,19 +2354,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pablo\\.nuget\\packages\\": {}
+    "C:\\Users\\Håvard\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\dat240-2022\\DaPaSaHa\\picturegame\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\dat240-2022\\DaPaSaHa\\picturegame\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\OneDrive\\Documentos\\GitHub\\dat240-2022\\DaPaSaHa\\picturegame\\obj\\",
+      "projectPath": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\Håvard\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Håvard\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2458,7 +2458,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

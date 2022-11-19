@@ -14,16 +14,17 @@ public class MenuModel : PageModel
 {
 	private readonly IMediator _mediator;
 	public MenuModel (IMediator mediator) => _mediator = mediator;
+	public string username { get; set; }
+	public User user { get; set; }
 
-	public List<User> Users { get; set; } = new();
-
-	public User? user { get; set; }
-
-	public string[] Errors { get; private set; } = System.Array.Empty<string>();
-
-	public async Task OnGetAsync(){
-		var UserId = HttpContext.Session.GetGuid("UserId");
-		Users = await _mediator.Send(new Core.Domain.User.Pipelines.Get.Request());
+	public IActionResult OnGet()
+	{
+		username = HttpContext.Session.GetString("Username");
+		if (username == null)
+		{
+			return RedirectToPage("./Index");
+		}
+		return Page();
 	}
 
 	public async Task<IActionResult> OnPostAsync()

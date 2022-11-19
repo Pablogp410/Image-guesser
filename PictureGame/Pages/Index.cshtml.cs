@@ -47,6 +47,7 @@ public class IndexModel : PageModel
 		if (user != null)
 			{
 				HttpContext.Session.SetString("UserId", user.Id.ToString());
+				HttpContext.Session.SetString("Username", user.Username);
 				return RedirectToPage("./Menu");
 			}
 		Errors = new string[] { "Username and/or password is incorrect" };
