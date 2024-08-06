@@ -34,7 +34,6 @@ public class GameModel : PageModel
 
 	public Player? player { get; set; }
 
-
 	public string[] Errors { get; private set; } = System.Array.Empty<string>();
 	public async Task OnGetAsync(){
 		//Getting the session ID
@@ -76,6 +75,21 @@ public class GameModel : PageModel
 		var UserId = HttpContext.Session.GetGuid("UserId");
 		if(UserId == null){
 			return RedirectToPage("/Index");
+		}
+
+		user = await _mediator.Send(new GetById.Request(UserId.Value));
+		if(user == null){
+			
+			return RedirectToPage("./Index");
+		}
+
+		player = await _mediator.Send(new Core.Domain.Player.Pipelines.GetPlayerById.Request(UserId.Value));
+		if(player == null){
+			user = await _mediator.Send(new Core.Domain.User.Pipelines.GetById.Request(UserId.Value));
+			if(user == null){
+				return RedirectToPage("./Index");
+			}
+			player = await _mediator.Send(new Core.Domain.Player.Pipelines.CreatePlayer.Request(UserId.Value, user.Username));
 		}
 
 		game = await _mediator.Send(new Core.Domain.Game.Pipelines.GetGame.Request(UserId.Value));

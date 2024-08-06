@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {
+    "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\Håvard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Håvard\\Desktop\\STUDIE\\DAT240\\project\\DaPaSaHa\\PictureGame\\obj\\",
+        "projectPath": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Håvard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -98,6 +103,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -106,7 +129,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,2061 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\image_mapping.txt",
+      "PackagePath": "staticwebassets\\image_mapping.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\48.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000086_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000086_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000122_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000122_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\48.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000129_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000129_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000152_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000152_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000155_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000155_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000165_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000165_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000167_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000167_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000197_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000197_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000213_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000213_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\0.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\0.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\1.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\10.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\11.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\12.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\13.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\14.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\15.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\16.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\17.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\18.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\19.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\2.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\20.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\21.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\22.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\23.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\24.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\25.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\26.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\27.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\28.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\29.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\3.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\30.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\31.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\32.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\33.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\34.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\35.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\36.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\37.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\38.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\39.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\4.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\40.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\41.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\42.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\43.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\44.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\45.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\46.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\47.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\48.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\5.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\6.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\7.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\8.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\images\\ILSVRC2012_val_00000273_scattered\\9.png",
+      "PackagePath": "staticwebassets\\images\\ILSVRC2012_val_00000273_scattered\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\label_mapping.txt",
+      "PackagePath": "staticwebassets\\label_mapping.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pablo\\Downloads\\DaPaSaHa\\DaPaSaHa\\PictureGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RazorPagesMovie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RazorPagesMovie.props",
+      "PackagePath": "build\\RazorPagesMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPagesMovie.props",
+      "PackagePath": "buildMultiTargeting\\RazorPagesMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RazorPagesMovie.props",
+      "PackagePath": "buildTransitive\\RazorPagesMovie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
